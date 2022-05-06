@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Franttaa
+- 👀 I’m interested in: Fantasy, Gaming, Table games
+- 🌱 I’m currently learning: C#, SQL
+- 💞️ I’m looking to collaborate on: currently no one :D
+- 📫 How to reach me: write me on czdoge@seznam.cz
